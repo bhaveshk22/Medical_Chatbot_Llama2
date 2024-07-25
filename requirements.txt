@@ -1,8 +1,13 @@
-ctransformers==0.2.5
-sentence-transformers==2.2.2
-pinecone-client[grpc]
-langchain==0.0.225
-flask
-huggingface_hub
-pypdf
+#python==3.8.10
+#pip==24.1.2
+ctransformers==0.2.27
+sentence-transformers==3.0.1
+pinecone-client[grpc]==5.0.0
+langchain==0.2.11
+flask==3.0.3
+huggingface_hub==0.24.2
+pypdf==4.3.1
+python-dotenv==1.0.1
+langchain_community==0.2.10
+langchain_pinecone==0.1.3
 -e .
