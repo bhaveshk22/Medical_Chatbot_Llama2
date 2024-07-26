@@ -4,6 +4,9 @@
 This repository contains the code for the Medical Chatbot Llama2, a sophisticated AI-powered chatbot designed to provide medical information and assistance. The project leverages advanced models and frameworks to ensure accurate and efficient performance.
 
 ## Screenshots
+![Screenshot 2024-07-26 004437](https://github.com/user-attachments/assets/3a75a388-1b39-4a64-bbf2-e74da7794145)
+
+![Screenshot 2024-07-26 004416](https://github.com/user-attachments/assets/a432ed02-690a-43f6-a9d1-c96661665e29)
 
 
 
