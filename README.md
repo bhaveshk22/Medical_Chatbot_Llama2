@@ -5,6 +5,9 @@ This repository contains the code for the Medical Chatbot Llama2, a sophisticate
 
 ## Screenshots
 
+![Screenshot 2024-07-26 004437](https://github.com/user-attachments/assets/eaca4f4e-cc6d-42c8-ae8e-5dcd310e1580)
+
+![Screenshot 2024-07-26 004416](https://github.com/user-attachments/assets/45069aa3-9218-4027-b0f8-44309586ec8e)
 
 
 ## Table of Contents
